@@ -15,10 +15,11 @@ I'm a passionate software developer with a strong background in full-stack devel
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Android SDK](https://img.shields.io/badge/-Android%20SDK-333333?style=flat&logo=android)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=google-cloud)
+![Genetic Algorithm](https://img.shields.io/badge/-Genetic%20Algorithm-333333?style=flat&logo=google)
 
 ## 📚 Education
 
