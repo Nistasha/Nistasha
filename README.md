@@ -16,6 +16,7 @@ I'm a passionate software developer with a strong background in full-stack devel
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-v1.0-blue)
 ![Android SDK](https://img.shields.io/badge/-Android%20SDK-333333?style=flat&logo=android)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=google-cloud)
